@@ -1,0 +1,5 @@
+config_test1 = open('config_test.txt', 'rt')
+content = config_test1.read()
+print(content)
+config_test1.close()
+print("File closed =",config_test1.closed)
