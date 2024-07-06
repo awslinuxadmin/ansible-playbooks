@@ -1,1 +1,1 @@
-Ansible playbooks for network automation with python.
+Network automation with python.
